@@ -1,0 +1,166 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 10px 20px;
+}
+.download{
+    margin-right: 50px;
+    border-radius: 5px;
+}
+.bg-image{
+    background-image: url(../assets/Hero-bg.png);
+    text-align: center;
+    margin: 0;
+}
+.header-button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    padding: 21px 24px;
+    border: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.image{
+    padding: 26px 221px 45px 221px;
+
+}
+
+.discrip{
+    font-weight:800;
+    color: 0D1321;
+    font-size: 48px;
+}
+.why{
+    text-align: center;
+    padding: 0 200px;
+    margin-top: 60px;
+}
+.coding{
+    margin-left: 500px;
+    display: flex;
+}
+
+.development{
+    /* background-color:rgba(13, 19, 33, 0.02); */
+    background-color:rgba(13, 19, 33, 0.02);
+
+    /* max-width: 1140; */
+    margin: 100px;
+
+}
+
+.content{
+    /* margin-left: 0;
+    margin-right: 250px;
+    margin-top: 40px; */
+    margin: 0 50px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    background-color: white;
+}
+.border{
+    margin-top:80px;
+
+}
+.layer{
+    margin-left: 150px;
+}
+.modern-web{
+    margin: 0 50px;
+    padding: 0 100px;
+    display: flex;
+    background-color: white;
+    margin-bottom: 32px;
+}
+.group{
+    margin: 0 50px;
+    padding: 10px 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 32px;
+
+}
+.inspiration{
+    margin-left: 400px;
+    margin-right: 200px;
+}
+
+
+.collection{
+    /* display: flex; */
+    /* gap: 10px; */
+    margin: 0;
+    padding: 10px 0;
+}
+.skill-list{
+    display: flex;
+    gap: 24px;
+    justify-content: space-evenly;
+}
+.develop{
+    margin: 100px;
+}
+.html{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.css{
+    background-color:rgba(255, 76, 30, 0.05) ;
+    border-radius: 16px;
+    padding: 40px;
+}
+.jscript{
+    background-color:rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.support{
+    text-align: center;
+    background-image: url(../assets/handshake.jpg);
+    padding: 64px 48px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+
+}
+.discription{
+    padding: 0 220px;
+}
+.input-text{
+    width: 450px;
+    border-radius: 8px;
+    padding: 20px;
+    border: none;
+}
+.input-button{
+
+    border-radius: 8px;
+    font-size: 20px;
+    width: 120px;
+    border: none;
+
+}
+.input{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    gap: 16px;
+}
+.footer{
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 120px;
+}
+#contact{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+}
